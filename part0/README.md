@@ -1,0 +1,1 @@
+part 0, introductions to the course and extra background given on whats to come and what possible prerequisite knowledge should be known.
